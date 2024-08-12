@@ -1,5 +1,6 @@
 {
   "name": "note-app",
+  
   "version": "1.0.0",
   "description": "Simple NodeJS App",
   "main": "index.js",
