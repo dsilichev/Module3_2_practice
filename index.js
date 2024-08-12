@@ -1,4 +1,3 @@
-// import yargs from "yargs";
 const yargs = require("yargs");
 const chalk = require("chalk");
 const { addNote, printNotes, removeNote } = require("./notes-controller");
